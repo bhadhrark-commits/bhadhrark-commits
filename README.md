@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**bhadhrark-commits/bhadhrark-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year B.Tech student based in Bengaluru, currently building my foundation in software development with a focus on **Python**.
 
-Here are some ideas to get you started:
+## 🛠️ Languages & Tools
+- **Languages:** Python (Intermediate)
+- **Database:** MySQL(Beginner/Intermediate)
+- **Tools:** VS Code, Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+*   **Digital Library Management System** - A 12th-grade project featuring a Python frontend integrated with a **MySQL backend** to manage book inventories and users.
+*   **Arduino Exploration** - Currently experimenting.
+
+## 📫 Contact Me
+- **Email:** bhadhra.rk@gmail.com
+
